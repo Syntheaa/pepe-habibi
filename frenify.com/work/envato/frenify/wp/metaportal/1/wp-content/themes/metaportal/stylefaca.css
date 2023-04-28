@@ -419,13 +419,13 @@ a.full_link{
 	z-index: 2;
 }
 .img1{
-    height: auto;
+    height: 400px;
     max-width: 100%;
     border: none;
     border-radius: 0;
     box-shadow: none;
     float: right;
-	padding: 0px 150px;
+	
 }
 [class*="mw_"]{
 	margin-left: auto;

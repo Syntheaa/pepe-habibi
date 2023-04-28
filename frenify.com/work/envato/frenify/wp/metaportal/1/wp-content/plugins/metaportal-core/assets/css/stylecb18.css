@@ -1294,8 +1294,9 @@ a.metaportal_fn_videobutton,
 	display: block;
 }
 .fn_cs_news .left_items .image img{
-	min-height: 650px;
+	min-height: 350px;
 }
+
 
 @media(max-width: 1040px){
 	.fn_cs_news .news_part{
